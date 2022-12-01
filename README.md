@@ -16,15 +16,15 @@ This project is supposed to be used in the "Catch hidden bugs" exercise.
 ### Clone this repository
 
 ```bash
-$ git clone git@github.com:microverseinc/curriculum-tools-buggy-restaurant.git
-$ cd curriculum-tools-buggy-restaurant
+$ git clone git@github.com:KanzaTahreem/Buggy-Restaurant.git
+$ cd Buggy-Restaurant
 ```
 
 ### Run project
 
 ```bash
 $ npm install
-$ npm run start # this will make webpack watching for your changes in code
+$ npm run start
 ```
 
 ### Open page in browser
